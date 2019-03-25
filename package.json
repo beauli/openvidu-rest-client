@@ -1,6 +1,6 @@
 {
   "name": "openvidu-rest-client",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "openvidu rest client",
   "main": "index.js",
   "scripts": {
