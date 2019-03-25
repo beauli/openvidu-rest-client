@@ -1,0 +1,26 @@
+{
+  "name": "openvidu-rest-client",
+  "version": "1.0.0",
+  "description": "openvidu rest client",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beauli/openvidu-rest-client.git"
+  },
+  "author": "Beauli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beauli/openvidu-rest-client/issues"
+  },
+  "homepage": "https://github.com/beauli/openvidu-rest-client#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "node-fetch": "^2.3.0"
+  }
+}
